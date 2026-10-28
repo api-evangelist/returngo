@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ReturnGO is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://returngo.ai/
+ReturnGO provides a sustainable returns and exchanges management platform for eCommerce brands. Their open API enables automated return processing, warranty handling, exchange management, and tracking, helping companies turn post‑purchase interactions into revenue while reducing waste. The service integrates with major eCommerce tools and offers a white‑label solution for branded return portals.
+
+**Areas:** Company · eCommerce · Returns · API · Sustainability
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://returngo.ai/)
+- [Documentation](https://returngo.ai/returns-management-api/)
+- [API reference](https://returngo.ai/returns-management-api/)
+- [Pricing](https://returngo.ai/pricing/)
+- [Support](https://support.returngo.ai/)
+- [Changelog](https://returngo.ai/release-notes/)
+- [Blog](https://returngo.ai/blog/)
+- [Terms of service](https://returngo.ai/terms/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/returngo/](https://apis.io/providers/returngo/).
